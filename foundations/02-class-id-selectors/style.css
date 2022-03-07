@@ -1,0 +1,22 @@
+.odd {
+    background-color: salmon;
+}
+
+#one, #five {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#two {
+    color: blue;
+    font-size: 36px;
+}
+
+#three {
+    font-family: sans-serif;
+}
+
+#four {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
