@@ -25,16 +25,27 @@ body {
 .sidebar {
   width: 300px;
   flex-shrink: 0;
+  padding: 16px;
 }
 
 .sidebar a {
   text-decoration: none;
   color: white;
+  font-size: 24px;
 }
 
-/* .cards {
-  flex: 3
-} */
+.cards {
+  padding: 32px;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.card {
+  width: 300px;
+  margin: 16px;
+  height: auto;
+}
 
 .footer {
   height: 72px;
